@@ -41,4 +41,6 @@ async function showExamples(data) {
     imageTensor.dispose();
   }
 }
-document.addEventListener("DOMContentLoaded", run);
+
+
+run();
