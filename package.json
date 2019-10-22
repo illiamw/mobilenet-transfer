@@ -1,0 +1,9 @@
+{
+  "name": "js-scqacu",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.11",
+    "@tensorflow/tfjs-vis": "^1.2.0"
+  }
+}
